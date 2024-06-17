@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1001584112285",
+    "project_id": "pincode-app-4c662",
+    "storage_bucket": "pincode-app-4c662.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001584112285:android:9de9a75392f26686569a74",
+        "android_client_info": {
+          "package_name": "com.example.pincode_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHJR3n6853lwsNPilYH40AyBYj_pmaIDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
